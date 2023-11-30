@@ -41,5 +41,11 @@
 ### Projects💻
 
 **1️⃣ 비동기 통신 기반 뷰엔진과 웹소켓을 활용한 식품 데이터 시각화<br />**
-2️⃣
-3️⃣
+    - 개발 기간 : 5일<br />
+    - 사용 기술 : SpringBoot, Ajax, Websocket, Mustache, MyBatis  <br />
+**2️⃣ <br />**
+    - 개발 기간 : 28일<br />
+    - 사용 기술 <br />
+       beck-end : SpringBoot, Restful Api, Mustache, MyBatis, JPA, JWT, Spring Security   <br />
+       front-end : React, Axios <br />
+**3️⃣ <br />**
