@@ -53,3 +53,8 @@
     - 개발 기간 : 28일<br />
     - 사용 기술 : SpringBoot, Spring Security, Ajax, MyBatis, Thymeleaf, AWS <br />
     - 맡은 역할 : 모임 게시판, 유저 커뮤니티 게시판 구현 <br /><br />
+
+
+#### 개발자가 되고 싶은 이유🌟
+
+
