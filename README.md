@@ -28,6 +28,7 @@
 
 ![이클립스](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 
 **DB**
@@ -48,7 +49,7 @@
     - 개발 기간 : 28일<br />
     - 사용 기술 : SpringBoot, Restful Api, Thymeleaf, MyBatis, JPA, JWT, Spring Security, React, Axios, AWS, Docker <br />
     - 맡은 역할 : 식단&운동 기록 페이지, 관리자_게시물관리, 랜딩페이지 구현 <br /><br />
-**3️⃣ <br />**
+**3️⃣ 클라우드 기반 비동기 통신을 활용한 컨텐츠 정보의 카테고리화 및 모임 개최 <br />**
     - 개발 기간 : 28일<br />
-    - 사용 기술 : SpringBoot, Ajax, Websocket, Mustache, MyBatis  <br />
-    - 맡은 역할 : main 페이지, 단체 채팅방 구현 <br /><br />
+    - 사용 기술 : SpringBoot, Spring Security, Ajax, MyBatis, Thymeleaf, AWS <br />
+    - 맡은 역할 : 모임 게시판, 유저 커뮤니티 게시판 구현 <br /><br />
