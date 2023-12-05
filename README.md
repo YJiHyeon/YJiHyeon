@@ -19,10 +19,10 @@
 ![파이썬](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![노드.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![깃](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   
 **IDE**
 
@@ -43,9 +43,12 @@
 **1️⃣ 비동기 통신 기반 뷰엔진과 웹소켓을 활용한 식품 데이터 시각화<br />**
     - 개발 기간 : 5일<br />
     - 사용 기술 : SpringBoot, Ajax, Websocket, Mustache, MyBatis  <br />
-**2️⃣ <br />**
+    - 맡은 역할 : main 페이지, 단체 채팅방 구현 <br /><br />
+**2️⃣ 클라우드 기반 토큰 보안과 JPA를 활용한 인공지능 풀스택 프로젝트<br />**
     - 개발 기간 : 28일<br />
-    - 사용 기술 <br />
-       beck-end : SpringBoot, Restful Api, Mustache, MyBatis, JPA, JWT, Spring Security   <br />
-       front-end : React, Axios <br />
+    - 사용 기술 : SpringBoot, Restful Api, Thymeleaf, MyBatis, JPA, JWT, Spring Security, React, Axios, AWS, Docker <br />
+    - 맡은 역할 : 식단&운동 기록 페이지, 관리자_게시물관리, 랜딩페이지 구현 <br /><br />
 **3️⃣ <br />**
+    - 개발 기간 : 28일<br />
+    - 사용 기술 : SpringBoot, Ajax, Websocket, Mustache, MyBatis  <br />
+    - 맡은 역할 : main 페이지, 단체 채팅방 구현 <br /><br />
