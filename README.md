@@ -1,5 +1,11 @@
-### 안녕하세요 개발자 윤지현 입니다 👋
+## Introduction 🖐🏻
+>안녕하세요, CRUD 와 DataBase에 자신 있는 백엔드 개발자 윤지현 입니다 <br />
+>백엔드 프로젝트와 풀스택 프로젝트 경험이 있습니다
+
+
+
 <br />
+
 
 ## Skills🌟
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -67,10 +73,3 @@
 - 기획 이유 : 다양한 덕후들을 위한 이벤트들이 주로 트위터나 인스타로만 정보를 얻을 수 있었다 이를 한 눈에 보고 정보를 제공하기 위해 제작하게 되었다 <br />
 - 배운점
   - mybatis 버전 에러를 잡을 수 있게 되었다
-
-
-
-
-
-
-
