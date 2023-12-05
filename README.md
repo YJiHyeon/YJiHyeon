@@ -1,7 +1,7 @@
 ### 안녕하세요 개발자 윤지현 입니다 👋
 <br />
 
-### Skills🌟
+## Skills🌟
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![restful api](https://img.shields.io/badge/RestfulApi-FD366E?style=for-the-badge&logo=airbrakedotio&logoColor=white)
@@ -39,22 +39,35 @@
 <br />
 
 
-### Projects💻
+<br />
+
+
+
+## Team Projects💻
 
 **1️⃣ 비동기 통신 기반 뷰엔진과 웹소켓을 활용한 식품 데이터 시각화<br />**
-    - 개발 기간 : 5일<br />
-    - 사용 기술 : SpringBoot, Ajax, Websocket, Mustache, MyBatis  <br />
-    - 맡은 역할 : main 페이지, 단체 채팅방 구현 <br /><br />
++ 기획 이유 : 냉장고 속 식품을 한 눈에 관리하여 배출되는 음식물 쓰레기를 줄여 나아가 지구온난화 예방에 기여할 수 있다 <br />
++ 배운점
+   - ajax를 더 잘 다룰 수 있게 되었다 
+   - websocet의 흐름을 알 수 있게 되었다
+
 **2️⃣ 클라우드 기반 토큰 보안과 JPA를 활용한 인공지능 풀스택 프로젝트<br />**
-    - 개발 기간 : 28일<br />
-    - 사용 기술 : SpringBoot, Restful Api, Thymeleaf, MyBatis, JPA, JWT, Spring Security, React, Axios, AWS, Docker <br />
-    - 맡은 역할 : 식단&운동 기록 페이지, 관리자_게시물관리, 랜딩페이지 구현 <br /><br />
+- 기획 이유 : '건강'에 대한 개념이 몸 건강을 넘어 마음 건강까지 확대 되고 있지만, 이를 함께 기록할 수 있는 사이트가 없어 제작하게 되었다  <br />
+- 배운점
+  -  DB를 여러번 호출하는 것이 아닌 한 번의 호출로 최대한 많은 데이터 가져오기
+  -  리액트 컴포넌트 구조의 중요성_부모 컴포넌트에서 Axios 호출하여 자식들에게 값 넣어주기
+  -  백엔드에서 Restful Api 설계시 프론트를 고려해서 설계 할 수 있게 되었다
+  -  JPA 와 mybatis 함께 사용_ Select는 join, Subquery, Group By, Union all, 계산식이 들어가 mybatis 사용, insert,delete,update는 JPA 사용
+  -  api 설계시 파라미터로 다양한 dto를 map에 담아 보내기
+
+
 **3️⃣ 클라우드 기반 비동기 통신을 활용한 컨텐츠 정보의 카테고리화 및 모임 개최 <br />**
-    - 개발 기간 : 28일<br />
-    - 사용 기술 : SpringBoot, Spring Security, Ajax, MyBatis, Thymeleaf, AWS <br />
-    - 맡은 역할 : 모임 게시판, 유저 커뮤니티 게시판 구현 <br /><br />
+- 기획 이유 : 다양한 덕후들을 위한 이벤트들이 주로 트위터나 인스타로만 정보를 얻을 수 있었다 이를 한 눈에 보고 정보를 제공하기 위해 제작하게 되었다 <br />
+- 배운점
+  - mybatis 버전 에러를 잡을 수 있게 되었다
 
 
-#### 개발자가 되고 싶은 이유🌟
+
+## 소개🌟
 
 
