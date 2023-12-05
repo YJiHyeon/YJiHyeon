@@ -59,6 +59,8 @@
   -  백엔드에서 Restful Api 설계시 프론트를 고려해서 설계 할 수 있게 되었다
   -  JPA 와 mybatis 함께 사용_ Select는 join, Subquery, Group By, Union all, 계산식이 들어가 mybatis 사용, insert,delete,update는 JPA 사용
   -  api 설계시 파라미터로 다양한 dto를 map에 담아 보내기
+  -  다른 사람이 만든 코드 해석 후 확장
+  -  새로 온 팀원에게 우리 팀의 코드 구조 설명 방법
 
 
 **3️⃣ 클라우드 기반 비동기 통신을 활용한 컨텐츠 정보의 카테고리화 및 모임 개최 <br />**
